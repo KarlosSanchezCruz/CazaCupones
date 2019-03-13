@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CazaCupones</string>
+    <string name="hitNombre">Nombre</string>
+    <string name="hitApellidos">Apellidos</string>
+    <string name="hitCorrero">Correo Electronico</string>
+    <string name="hitPassword">Contraseña</string>
+    <string name="hitConfPassword">Confirmar Contraseña</string>
+    <string name="registro_de_usuarios">Registro de Usuarios</string>
+    <string name="hitSiguiente">SIGUIENTE</string>
+    <string name="hitNomNegocio">Nombre</string>
+    <string name="hitDireccion">Dirección</string>
+</resources>

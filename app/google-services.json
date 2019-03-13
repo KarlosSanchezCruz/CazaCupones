@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "649097274533",
+    "firebase_url": "https://cuponeskbebo.firebaseio.com",
+    "project_id": "cuponeskbebo",
+    "storage_bucket": "cuponeskbebo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649097274533:android:841a3b6344e5044b",
+        "android_client_info": {
+          "package_name": "com.kbebo.cazacupones"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649097274533-hk196vv4jo3rrjanl4760u0opn6jffdg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kbebo.cazacupones",
+            "certificate_hash": "dc7ae4f3b7d744a19e31ae843071168124caef7e"
+          }
+        },
+        {
+          "client_id": "649097274533-ci0l9jdqla6hqee85grk5l7iu1136tag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBA42-wwb178Mkz_nplHZF8f1KrwF5aVyg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649097274533-ci0l9jdqla6hqee85grk5l7iu1136tag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
